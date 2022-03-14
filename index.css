@@ -48,6 +48,10 @@ header{
     color:#fff;
 }
 
+.dark .covid{
+    color:black;
+}
+
 .switch {
   width: 80px;
   height: 40px;
